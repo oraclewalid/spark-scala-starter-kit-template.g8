@@ -7,7 +7,8 @@ The template provides a :
 * Unit tests examples and launcher with Spark session.
 * Packaging in fat jar format.
 
-## Command
+## Project generation
+
 Sbt is used to generate the project [Sbt setup](https://www.scala-sbt.org/1.x/docs/Setup.html), for the next step you can choose Sbt or Maven for the project build management.
 
 To create a project :
@@ -17,8 +18,9 @@ sbt new  oraclewalid/spark-scala-starter-kit-template.g8
 
 ```
 
-## Project generation
-The compilation, unit tests and packaging are already configured for the project.
+## Command
+
+The compilation, unit tests and packaging are already configured.
 
 **SBT**
 
