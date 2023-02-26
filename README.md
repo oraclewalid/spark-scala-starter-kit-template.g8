@@ -3,8 +3,8 @@ The template provides a :
 * Build system compatible with Sbt and Maven
 * Multi-environment configuration management based on [PureConfig](https://github.com/pureconfig/pureconfig) and  [Lightbend config](https://github.com/lightbend/config).
 * Cli arguments parser via [Scopt](https://github.com/scopt/scopt)
-* CI/CD template baszd on Github actions
-* Unit tests examples and launcher with a Spark session.
+* CI/CD template based on Github actions
+* Unit tests examples and launcher with Spark session.
 * Packaging in fat jar format.
 
 ## Command
